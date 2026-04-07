@@ -10,7 +10,7 @@ This project analyzes simulated operational theme park data to understand how ex
 * **Predictive Modeling:** Built a Random Forest Regressor to forecast wait times based on chronological features.
 
 ## 📊 Exploratory Data Analysis
-`![Crowd Flow Chart](crowd_flow_chart.png)`)
+![Crowd Flow Chart](crowd_flow_chart.png)
 
 As shown in the chart above, the standard operational day follows a distinct bell curve, requiring maximum staffing allocations between 1:00 PM and 4:00 PM.
 
